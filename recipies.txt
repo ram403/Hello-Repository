@@ -3,5 +3,7 @@ Welcome to the new file
 kher
 pasta
 
+tea
+coffee
 
 thank you:)
